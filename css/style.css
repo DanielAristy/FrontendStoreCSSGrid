@@ -104,7 +104,7 @@ img{
 
 .informacion{
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    grid-template-columns: repeat(auto-fit,minmax(300px,2fr));
     grid-gap: 2rem;
 }
 .imagen-producto{
